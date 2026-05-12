@@ -59,7 +59,7 @@ jobs:
 
           echo "::notice::Skipping OCI deploy because required deployment secrets are not configured."
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         if: steps.deployment_secrets.outputs.ready == 'true'
 
       - name: Write production env file
