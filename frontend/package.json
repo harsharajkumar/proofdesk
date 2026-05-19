@@ -20,7 +20,7 @@
     "lucide-react": "^1.14.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.4",
+    "react-router-dom": "^7.15.1",
     "y-monaco": "^0.1.6",
     "y-protocols": "^1.0.7",
     "yjs": "^13.6.30"
